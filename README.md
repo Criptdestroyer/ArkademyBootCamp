@@ -21,5 +21,6 @@ menggunakan inner join dan agregasi. terdapat .sql di repo ini
 
 ### soal 7
 membuat crud untuk products, untuk product_categories tidak dibuat karena waktu yang tidak cukup
+configurasi dapat dilihat di config.php
 
 ## estimate : 18.00-20.26 (2.5 hours)
